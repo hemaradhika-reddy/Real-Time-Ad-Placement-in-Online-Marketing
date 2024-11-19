@@ -47,9 +47,17 @@ In the digital age, **online marketing** has become indispensable for businesses
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**. Feel free to contribute and use! 🌟  
+### 📝 Citation
+If you use this work in your research, please cite:
+```
+@article{deeplearning_landclass2024,
+  title={Deep Learning Approach for Land Feature Classification Using Google Earth Imagery},
+  author={[Hema Radhika Reddy, Sykam Sumanjali,Hari Priya, Likhitha Shree]},
+  year={2024}
+}
+```
 
----  
+### 📄 License
+MIT License
 
 🔗 **Let’s build smarter ads, together!** 💡
